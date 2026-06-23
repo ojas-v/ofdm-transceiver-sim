@@ -9,7 +9,7 @@ An end-to-end, software-defined physical layer simulation of an 802.11a-style OF
 It includes a live, interactive web dashboard to visualize how different channel environments (AWGN, Multipath, Rayleigh) destroy signals and how DSP equalizers (ZF/MMSE) recover them.
 
 ## 🚀 Live Interactive Dashboard
-*(Add your Streamlit Cloud link here once deployed! Example: `https://ofdm-transceiver.streamlit.app`)*
+[👉 Click here to launch the Live Interactive Dashboard](https://ofdm-transceiver-sim-hsf3wc7a7orfpxkxtup3mg.streamlit.app/)
 
 ## 🧠 Core Architecture Pipeline
 
